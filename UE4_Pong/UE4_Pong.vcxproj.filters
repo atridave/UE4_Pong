@@ -30,4 +30,60 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\0db2bfa9.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\1f683343.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\2657c409.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\266574c4.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\2f5244c7.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\311563bb.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\52ed2538.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\7c5240f2.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\866581fd.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\8c0e1344.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\aff1c699.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\c90e3f55.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\e2765583.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\e8c2d44a.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\f0d5030c.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\f66358aa.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\CachedAssetRegistry.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UE4_Pong\Intermediate\ReimportCache\3688439234.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>

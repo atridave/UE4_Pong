@@ -159,6 +159,26 @@
     </ClCompile>
     <ClCompile Include="UE4_Pong.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\0db2bfa9.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\1f683343.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\2657c409.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\266574c4.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\2f5244c7.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\311563bb.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\52ed2538.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\7c5240f2.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\866581fd.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\8c0e1344.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\aff1c699.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\c90e3f55.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\e2765583.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\e8c2d44a.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\f0d5030c.bin" />
+    <None Include="UE4_Pong\Intermediate\AssetRegistryCache\f66358aa.bin" />
+    <None Include="UE4_Pong\Intermediate\CachedAssetRegistry.bin" />
+    <None Include="UE4_Pong\Intermediate\ReimportCache\3688439234.bin" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
